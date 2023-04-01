@@ -21,12 +21,6 @@ Check out our [**Paper**](https://arxiv.org/pdf/2206.02531.pdf) for more details
 
 ## Installation
 
-In order to skip the installation process, you can simply run on a 3090 GPU of our lab:
-
-- 10.177.35.95
-- /home/d3010/lzd/PoseFromShape
-- `conda activate pose_estimation`
-
 ### 1. Create conda environment
 
 ```
