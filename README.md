@@ -6,7 +6,7 @@ Image-based Object Pose Estimation**](https://dl.acm.org/doi/10.1145/3512527.353
 
 Check out our [**Paper**](https://arxiv.org/pdf/2206.02531.pdf) for more details.
 
-![Motivation](motivation.png)
+![Motivation](motivation.png/scale/60)
 
 ```
 @INPROCEEDINGS{Liu3DAugPose,
